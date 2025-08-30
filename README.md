@@ -17,3 +17,6 @@ url-shortener/
  ├─ app.py
  ├─ requirements.txt
  └─ .gitignore
+## Contact & Payment
+- Email: MahdiTayeriChaghoushi@gmail.com
+- Payment: USDT (TRC20) via Trust Wallet — contact me for the address
